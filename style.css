@@ -1,0 +1,12 @@
+.small{
+    background: currentcolor; 
+    height:50px; 
+    width:50px; 
+    border: 1px solid black;
+}
+.big{
+    background: currentcolor; 
+    height:60px; 
+    width:100px;
+    border: 1px solid black;
+}
